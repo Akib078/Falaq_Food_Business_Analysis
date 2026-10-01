@@ -10,6 +10,10 @@
 ![User Flows](https://img.shields.io/badge/User%20Flows-Process%20Design-blue)
 ![Research](https://img.shields.io/badge/Research-Market%20%26%20Competitor%20Research-orange)
 ![Backlog](https://img.shields.io/badge/Backlog-Requirements-green)
+![Confluence](https://img.shields.io/badge/Tool-Confluence-blue)
+![Figma](https://img.shields.io/badge/Tool-Figma-purple)
+![Claude AI](https://img.shields.io/badge/AI-Claude%20AI-orange)
+![Google Docs](https://img.shields.io/badge/Tool-Google%20Docs-blue)
 ![System](https://img.shields.io/badge/System-ERP%2FCRM%20%2B%20E--Commerce-brightgreen)
 
 ---
@@ -26,8 +30,22 @@ The analysis translates business needs into structured and actionable product re
 **Role:** Business Analyst / Product Analyst  
 **Focus:** Business Analysis + Requirements Engineering + Product Documentation  
 **Documentation:** BRDs + Business Logic + User Flows + Backlog  
+**Documentation Tools:** Confluence + Google Docs  
+**UI/UX & User Flows:** Figma  
+**AI-Assisted Analysis:** Claude AI  
 **Research:** Competitor & Market Research  
 **Collaboration:** Development + Operations + SEO + UI/UX + Management
+
+---
+
+## 🛠️ Tools & Documentation Stack
+
+| Tool | Purpose |
+|---|---|
+| Confluence | Product documentation, requirements, knowledge management & team collaboration |
+| Google Docs | BRDs, requirements documentation & collaborative writing |
+| Figma | User flow visualization, UI/UX discussions & interface documentation |
+| Claude AI | Research assistance, brainstorming, requirement analysis & documentation support |
 
 ---
 
@@ -44,6 +62,7 @@ The analysis translates business needs into structured and actionable product re
 * Collaborate with stakeholders to validate requirements.
 * Identify opportunities for process and system improvement.
 * Conduct competitor and market research.
+* Use appropriate documentation and collaboration tools throughout the analysis process.
 * Ensure requirements are clear, actionable, and aligned with business objectives.
 
 ---
