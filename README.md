@@ -48,9 +48,13 @@ The analysis translates business needs into structured and actionable product re
 | Claude AI | Research assistance, brainstorming, requirement analysis & documentation support |
 
 ---
+
 ## 📈 Ticket Sample
+
 <img width="1171" height="753" alt="image" src="https://github.com/user-attachments/assets/b2a5cf90-a31f-4057-a3d8-a35cdf1ccaac" />
+
 ---
+
 ## 🎯 Objectives
 
 * Understand customer and internal user pain points.
