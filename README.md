@@ -46,6 +46,7 @@ The analysis translates business needs into structured and actionable product re
 | Google Docs | BRDs, requirements documentation & collaborative writing |
 | Figma | User flow visualization, UI/UX discussions & interface documentation |
 | Claude AI | Research assistance, brainstorming, requirement analysis & documentation support |
+| Github & Jira Board | Bug reporting, creating backlog ticket, documentation tickets |
 
 ---
 
