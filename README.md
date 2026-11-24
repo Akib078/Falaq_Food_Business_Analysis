@@ -28,7 +28,7 @@ The analysis translates business needs into structured and actionable product re
 
 **Application:** Falaq Food Custom ERP/CRM & E-commerce Platform  
 **Role:** Product Analyst & Manager and QA  
-**Focus:** Business Analysis + Requirements Engineering + Product Documentation + QA 
+**Focus:** Business Analysis + Requirements Engineering + Product Documentation + QA
 **Documentation:** BRDs + Business Logic + User Flows + Backlog  
 **Documentation Tools:** Confluence + Google Docs  
 **UI/UX & User Flows:** Figma  
