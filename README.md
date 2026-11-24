@@ -1,6 +1,6 @@
 # 🍱 Falaq Food — ERP/CRM Product Management & Analysis
 
-> A comprehensive Business Analysis portfolio project showcasing my work in **Business Analysis, Product Analysis, Requirements Engineering, Business Logic, User Flow Design, Product Documentation, Research, and Backlog Management** for the Falaq Food Custom ERP/CRM and E-commerce Platform.
+> A comprehensive Product Analysis and Management portfolio project showcasing my work in **Business Analysis, Product Analysis, QA, Requirements Engineering, Business Logic, User Flow Design, Product Documentation, Research, and Backlog Management** for the Falaq Food Custom ERP/CRM and E-commerce Platform.
 
 ![Role](https://img.shields.io/badge/Role-Business%20Analyst-blue)
 ![Analysis](https://img.shields.io/badge/Analysis-Business%20Analysis-orange)
@@ -20,7 +20,7 @@
 
 ## 📌 Project Overview
 
-A comprehensive **Business Analysis and Product Documentation project** for the Falaq Food custom **ERP/CRM and E-commerce Platform**.
+A comprehensive **Product Management and Business Analysis project** for the Falaq Food custom **ERP/CRM and E-commerce Platform**.
 
 The project focuses on understanding business problems, customer and internal user pain points, operational challenges, system workflows, business requirements, and potential improvements.
 
