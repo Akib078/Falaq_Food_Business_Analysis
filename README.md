@@ -1,4 +1,4 @@
-# 🍱 Falaq Food — ERP/CRM & E-commerce Business Analysis
+# 🍱 Falaq Food — ERP/CRM Product Management & Analysis
 
 > A comprehensive Business Analysis portfolio project showcasing my work in **Business Analysis, Product Analysis, Requirements Engineering, Business Logic, User Flow Design, Product Documentation, Research, and Backlog Management** for the Falaq Food Custom ERP/CRM and E-commerce Platform.
 
@@ -35,6 +35,8 @@ The analysis translates business needs into structured and actionable product re
 **AI-Assisted Analysis:** Claude AI  
 **Research:** Competitor & Market Research  
 **Collaboration:** Development + Operations + SEO + UI/UX + Management
+
+<img width="951" height="476" alt="Admin" src="https://github.com/user-attachments/assets/2fb2f1bd-d09b-45c9-bacf-7697c7ff667f" />
 
 ---
 
