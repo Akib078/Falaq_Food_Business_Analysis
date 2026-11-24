@@ -76,7 +76,7 @@ The analysis translates business needs into structured and actionable product re
 
 ---
 
-# 👨‍💼 Product Analysis & Management
+## 👨‍💼 Product Analysis & Management
 
 ## 🔍 Problem & Pain Point Discovery
 
