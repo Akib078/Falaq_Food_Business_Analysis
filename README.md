@@ -27,8 +27,8 @@ The project focuses on understanding business problems, customer and internal us
 The analysis translates business needs into structured and actionable product requirements through **Business Requirements Documents (BRDs), Business Logic, User Flows, Acceptance Criteria, and Development Backlog Tickets**.
 
 **Application:** Falaq Food Custom ERP/CRM & E-commerce Platform  
-**Role:** Business Analyst / Product Analyst  
-**Focus:** Business Analysis + Requirements Engineering + Product Documentation  
+**Role:** Product Analyst & Manager and QA  
+**Focus:** Business Analysis + Requirements Engineering + Product Documentation + QA 
 **Documentation:** BRDs + Business Logic + User Flows + Backlog  
 **Documentation Tools:** Confluence + Google Docs  
 **UI/UX & User Flows:** Figma  
@@ -76,7 +76,7 @@ The analysis translates business needs into structured and actionable product re
 
 ---
 
-# 👨‍💼 Business Analysis
+# 👨‍💼 Product Analysis & Management
 
 ## 🔍 Problem & Pain Point Discovery
 
